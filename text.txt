@@ -1,8 +1,9 @@
 Git is a distributed vision control system.
-Git is a free software.
+Git is free software.
 Git test.
 Git change...
 Git is changing...
 link github
 Create  a new banch
 Creating a new branch is quick & simple.
+

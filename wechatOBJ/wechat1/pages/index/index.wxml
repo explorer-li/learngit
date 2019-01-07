@@ -1,5 +1,5 @@
 <view class="index-container">
 <image class='logo' src='../images/timg.jpg'></image>
-<view class='font'>Hello,world</view>
+<view class='font'>你好，世界！！</view>
 <view class='btn' bindtap='toMenu'>用图片勾勒出你的心情吧!</view>
 </view>
